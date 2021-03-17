@@ -19,3 +19,9 @@ Agora rode o comando na pasta raíz do programa e entre na porta localhost:8081,
 ```bash
 node index.js
 ```
+##TECNOLOGIAS USADAS
+- express
+- handlerbars
+- MySQL
+- node.js
+- docker
